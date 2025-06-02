@@ -6,4 +6,4 @@ Some of my current career interests are in data analysis and data science. I enj
 
 Personal projects:
 - [The International Database Project](https://github.com/thaianle/international-database) (ongoing)
-- Operations and Performance Data from the Federal Aviation Administration ([data source](https://aspm.faa.gov/), coming soon)
+- School Report Card Database ([data source](https://data.nysed.gov/downloads.php), coming soon)
