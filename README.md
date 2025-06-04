@@ -6,4 +6,4 @@ Some of my current career interests are in data analysis and data science. I enj
 
 Personal projects:
 - [The International Database Project](https://github.com/thaianle/international-database) (ongoing)
-- School Report Card Database ([data source](https://data.nysed.gov/downloads.php), coming soon)
+- [NYSED School Report Card Project](https://github.com/thaianle/nysed-2024) (ongoing)
