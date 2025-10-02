@@ -1,8 +1,6 @@
-Hi, I'm Thai An Le (Thai An is my first name), or you can call me An for short.
+I'm a Mathematics & Economics double major and Digital and Computational Studies minor at Bates College. My current career interests are in research and data analytics/data science, particularly in socio-economic and financial contexts. I am always excited to uncover patterns in the data and contribute my insights to informed decisions.
 
-I'm a Class of 2028 student at Bates College, studying Mathematics, Economics, and Digital and Computational Studies.
-
-My current interests are in research and data analytics/data science, especially in socio-economic and financial domains. I enjoy working out underlying patterns in data and presenting the obtained insights, thus contributing to enriched understanding and impactful decision-making.
+In addition, I also have extensive experience in writing and language tutoring, helping my fellow students with their classwork while cultivating meaningful relationships. In my free time, I enjoy watching televised quiz shows and sharing the fun facts that I have learned.
 
 This GitHub account is where I store my personal projects as I experiment with different data analysis and machine learning techniques. In the future, I may host codes for my academic coursework.
 
